@@ -1,0 +1,105 @@
+[
+    {
+        "id": "1",
+        "worker": {
+            "workerId" : "11",
+            "name": "Aslı C.",
+            "avatar": "dummy-avatar.jpeg",
+            "service": "Çocuk Bakıcısı",
+            "tel" : "+901111111"
+        },
+        "employer" : {
+            "employerId" : "91",
+            "name": "Mehmet K",
+            "avatar" : "dummy-avatar.jpeg",
+            "tel" : "+902222222"
+        },
+        "cart": {
+            "salary": "3000",
+            "insurance": "250",
+            "total": "3250",
+            "serviceTitle": "Bebek - Çocuk Bakımı"
+        },
+        "location": "Kadıköy/İstanbul",
+        "jobStatus": "AKTİF",
+        "jobStatusCode": 1,
+        "salaryPeriod": "Aylık",
+        "dateStart": "13.11.2019",
+        "dateEnd": "13.12.2019",
+        "payday" : "14.12.2019",
+        "title": "",
+        "type": "Yatılı",
+        "nationality": "Türk"
+        
+    
+    },
+    
+    {
+        "id": "2",
+        "worker": {
+            "workerId" : "11",
+            "name": "Aslı C.",
+            "avatar": "dummy-avatar.jpeg",
+            "service": "Yaşlı Bakıcısı",
+            "tel" : "+901111111"
+        },
+        "employer" : {
+            "employerId" : "91",
+            "name": "Mehmet K",
+            "avatar" : "dummy-avatar.jpeg",
+            "tel" : "+902222222"
+        },
+        "cart": {
+            "salary": "3000",
+            "insurance": "250",
+            "total": "3250",
+            "serviceTitle": "Yaşlı Bakımı"
+        },
+        "location": "Kadıköy/İstanbul",
+        "jobStatus": "BAŞLAMADI",
+        "jobStatusCode": 0,
+        "salaryPeriod": "Aylık",
+        "dateStart": "13.11.2019",
+        "dateEnd": "13.12.2019",
+        "payday" : "14.12.2019",
+        "title": "",
+        "type": "Yatılı",
+        "nationality": "Türk"
+        
+    
+    },
+    {
+        "id": "3",
+        "worker": {
+            "workerId" : "11",
+            "name": "Aslı C.",
+            "avatar": "dummy-avatar.jpeg",
+            "service": "Hasta Bakıcısı",
+            "tel" : "+901111111"
+        },
+        "employer" : {
+            "employerId" : "91",
+            "name": "Mehmet K",
+            "avatar" : "dummy-avatar.jpeg",
+            "tel" : "+902222222"
+        },
+        "cart": {
+            "salary": "5000",
+            "insurance": "250",
+            "total": "3250",
+            "serviceTitle": "Oyun Ablası"
+        },
+        "location": "Kadıköy/İstanbul",
+        "jobStatus": "TAMAMLANDI",
+        "jobStatusCode" : 2,
+        "salaryPeriod": "Aylık",
+        "dateStart": "13.11.2019",
+        "dateEnd": "13.12.2019",
+        "payday" : "14.12.2019",
+        "title": "",
+        "type": "Yatılı",
+        "nationality": "Türk"
+        
+    
+    }
+]

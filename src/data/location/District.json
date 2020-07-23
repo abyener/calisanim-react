@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "parent_id":1,
+        "name": "Ataşehir"
+    },
+    {
+        "id": 2,
+        "parent_id":1,
+        "name": "Kadıköy"
+    },
+    {
+        "id": 3,
+        "parent_id":2,
+        "name": "Sincan"
+    },
+    {
+        "id": 4,
+        "parent_id":2,
+        "name": "Gölbaşı"
+    },
+    {
+        "id": 5,
+        "parent_id":2,
+        "name": "Polatlı"
+    }
+]

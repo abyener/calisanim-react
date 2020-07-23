@@ -1,0 +1,35 @@
+[
+    {
+        "id": "1",
+        "location": "Kadıköy/İstanbul",
+        "avatar": "dummy-avatar.jpeg",
+        "date": "13.11.2019",
+        "title": "Kadıköy'de Yatılı, Ev İşlerinde Yardımcı Bakıcı Aranıyor.",
+        "category": "Bebek - Çocuk Bakıcısı",
+        "type": "Yatılı",
+        "salary": "3500 - 5000",
+        "salaryPeriod": "Aylık"
+    },
+    {
+        "id": "2",
+        "location": "Ataşehir/İstanbul",
+        "avatar": "dummy-avatar.jpeg",
+        "date": "13.11.2019",
+        "title": "Kadıköy'de Yatılı, Ev İşlerinde Yardımcı Bakıcı Aranıyor.",
+        "category": "Oyun Abisi",
+        "type": "Yatılı",
+        "salary": "3500 - 5000",
+        "salaryPeriod": "Aylık"
+    },
+    {
+        "id": "2",
+        "location": "Ataşehir/İstanbul",
+        "avatar": "dummy-avatar.jpeg",
+        "date": "13.11.2019",
+        "title": "Kadıköy'de Yatılı, Ev İşlerinde Yardımcı Bakıcı Aranıyor.",
+        "category": "Oyun Abisi",
+        "type": "Yatılı",
+        "salary": "3500 - 5000",
+        "salaryPeriod": "Aylık"
+    }
+]

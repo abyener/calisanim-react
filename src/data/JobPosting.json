@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "userName": "Aslı C.",
+        "location": "Kadıköy/İstanbul",
+        "avatar": "dummy-avatar.jpeg",
+        "date": "13.11.2019",
+        "title": "Kadıköy'de Yatılı, Ev İşlerinde Yardımcı Bakıcı Aranıyor.",
+        "category": "Bebek - Çocuk Bakıcısı",
+        "type": "Yatılı",
+        "nationality": "Türk",
+        "expectedDuties": [
+            "Detaylı Ev Temizliği",
+            "Günlük Ev Toparlama",
+            "Yemek Hazırlama"
+        ],
+        
+        "salaryMin" : 3500,
+        "salaryMax" : 5000,
+        "salaryPeriod": "Aylık",
+        "ageRange": "30 - 45",
+        "homeInfo": {
+            "camera": true,
+            "pet": true,
+            "petInfo": "Köpek"
+        },
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    }
+]

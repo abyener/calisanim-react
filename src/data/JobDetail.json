@@ -1,0 +1,34 @@
+
+    {
+        "id": "1",
+        "worker": {
+            "workerId" : "11",
+            "name": "Aslı C.",
+            "avatar": "dummy-avatar.jpeg",
+            "service": "Çocuk Bakıcısı",
+            "tel" : "+901111111"
+        },
+        "employer" : {
+            "employerId" : "91",
+            "name": "Mehmet K",
+            "avatar" : "dummy-avatar.jpeg",
+            "tel" : "+902222222"
+        },
+        "cart": {
+            "salary": "3000",
+            "insurance": "250",
+            "total": "3250",
+            "serviceTitle": "Bebek - Çocuk Bakımı"
+        },
+        "location": "Kadıköy/İstanbul",
+        "jobStatus": "BAŞLAMADI",
+        "salaryPeriod": "Aylık",
+        "dateStart": "13.11.2019",
+        "dateEnd": "13.12.2019",
+        "payday" : "14.12.2019",
+        "title": "",
+        "type": "Yatılı",
+        "nationality": "Türk"
+        
+    
+    }

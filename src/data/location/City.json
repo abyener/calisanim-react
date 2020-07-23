@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "parent_id":1,
+        "name": "İstanbul"
+    },
+    {
+        "id": 2,
+        "parent_id":1,
+        "name": "Ankara"
+    },
+    {
+        "id": 3,
+        "parent_id":1,
+        "name": "İzmir"
+    },
+    {
+        "id": 4,
+        "parent_id":2,
+        "name": "Bakü"
+    },
+    {
+        "id": 5,
+        "parent_id":2,
+        "name": "Kebele"
+    },
+    {
+        "id": 6,
+        "parent_id":2,
+        "name": "Şeki"
+    }
+
+]

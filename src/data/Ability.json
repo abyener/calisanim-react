@@ -1,0 +1,93 @@
+[
+    {
+        "id": 3,
+        "name": "Sigara Kullanmıyor",
+        "position": "top",
+        "icon": "check",
+        "type": "ability"
+    },
+    {
+        "id": 4,
+        "name": "Aktif Sürücü",
+        "position": "top",
+        "icon": "check",
+        "type": "ability"
+    },
+    {
+        "id": 5,
+        "name": "İl dışında çalışabilir",
+        "position": "top",
+        "icon": "check",
+        "type": "ability"
+    },
+    {
+        "id": 6,
+        "name": "İlk Yardım Bilgisi",
+        "position": "top",
+        "icon": "check",
+        "type": "ability"
+    },
+    {
+        "id": 7,
+        "name": "Evcil Hayvanlarla Uyumlu",
+        "position": "top",
+        "icon": "check",
+        "type": "ability"
+    },
+    {
+        "id": 8,
+        "name": "Ev Temizliği",
+        "position": "mid",
+        "icon": "clean",
+        "type": "ability"
+    },
+    {
+        "id": 9,
+        "name": "Yemek Yapma",
+        "position": "mid",
+        "icon": "cook",
+        "type": "ability"
+    },
+    {
+        "id": 10,
+        "name": "Evcil Hayvanlara Yardımcı",
+        "position": "mid",
+        "icon": "pet",
+        "type": "ability"
+    },
+    {
+        "id": 11,
+        "name": "İlk Yardım Bilgisi",
+        "position": "bot",
+        "icon": "check",
+        "type": "ability"
+    },
+    {
+        "id": 12,
+        "name": "0-6 Yaş",
+        "position": null,
+        "icon": "check",
+        "type": "experience"
+    },
+    {
+        "id": 13,
+        "name": "7-11 Yaş",
+        "position": null,
+        "icon": "check",
+        "type": "experience"
+    },
+    {
+        "id": 14,
+        "name": "Hasta çocuk bakabilir",
+        "position": null,
+        "icon": "check",
+        "type": "experience"
+    },
+    {
+        "id": 15,
+        "name": "İngilizce",
+        "position": null,
+        "icon": "check",
+        "type": "language"
+    }
+]

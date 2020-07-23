@@ -1,0 +1,27 @@
+{
+    "id": "1",
+    "worker": {
+        "workerId": "11",
+        "name": "Aslı C.",
+        "avatar": "dummy-avatar.jpeg"
+    },
+    "serviceList": [
+        "Çocuk Bakımı",
+        "Yaşlı Bakımı",
+        "Özel Ders"
+    ],
+    "availableTypes": {
+        "Yatılı" : false,
+        "Part-Time" : true,
+        "Tam Zamanlı" : true
+    },
+    
+    "employerId": "91",
+    "employerName": "Mehmet K",
+    "cart": {
+        "salary": "3000",
+        "insurance": "250",
+        "total": "3250",
+        "serviceTitle": "Bebek - Çocuk Bakımı"
+    }
+}

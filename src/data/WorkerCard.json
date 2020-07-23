@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "name": "Ayşe B.",
+        "gender": "Kadın",
+        "title": "Oyun Ablası",
+        "userRating": "4.5",
+        "ratingCount": "10",
+        "avatar": "dummy-avatar.jpeg",
+        "location": "Kadıköy/İstanbul",
+        "experience": "6 Yıl",
+        "uyruk": "Türk",
+        "salary": "50 TL/saat",
+        "workTime": "Tam Zamanlı",      
+        "info": "Lorem ipsum dolor sit amet, scing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    
+    },
+    {
+        "id": "2",
+        "name": "Selda B.",
+        "gender": "Kadın",
+        "title": "Oyun Ablası",
+        "userRating": "4.5",
+        "ratingCount": "10",
+        "avatar": "dummy-avatar.jpeg",
+        "location": "Kadıköy/İstanbul",
+        "experience": "6 Yıl",
+        "uyruk": "Türk",
+        "salary": "50 TL/saat",
+        "workTime": "Tam Zamanlı",
+        "info": "Lorem ipsum dolor sit amet, scing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "id": "3",
+        "name": "Melda B.",
+        "gender": "Kadın",
+        "title": "Oyun Ablası",
+        "userRating": "4.5",
+        "ratingCount": "10",
+        "avatar": "dummy-avatar.jpeg",
+        "location": "Kadıköy/İstanbul",
+        "experience": "3 Yıl",
+        "uyruk": "Türk",
+        "salary": "50 TL/saat",
+        "workTime": "Tam Zamanlı",
+        "info": "Lorem ipsum dolor sit amet, scing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit."    
+    }
+]
